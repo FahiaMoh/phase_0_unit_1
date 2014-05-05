@@ -3,43 +3,43 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+adds files to staging
 
 #### branch
-<!-- Your defnition here -->
+Lists all branches in your repo, and also tell you what branch you're currently in
 
 #### checkout
-<!-- Your defnition here -->
+create new branch and switch to it
 
 #### clone
-<!-- Your defnition here -->
+create a copy of a local repo
 
 #### commit
-<!-- Your defnition here -->
+commit any files you added with 'git add' and any you've changed since then
 
 #### fetch
-<!-- Your defnition here -->
+fetches the latest history from the server 
 
 #### log
-<!-- Your defnition here -->
+shows what is logged 
 
 #### merge
-<!-- Your defnition here -->
+to merge a branch to yours 
 
 #### pull
-<!-- Your defnition here -->
+fetch and merge changes on the remote server to yoru working directory
 
 #### push
-<!-- Your defnition here -->
+push all branches to remote repo
 
 #### reset
-<!-- Your defnition here -->
+drop all your local changes and commits
 
 #### rm
-<!-- Your defnition here -->
+removes file from the working directory and add that removal into the index
 
 #### status
-
+List the files you've changd and those you still need to add or commit
 
 ## Release 4: Git Workflow
 
