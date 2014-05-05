@@ -7,7 +7,11 @@
 - Identify your biggest fear
 - Describe what you would tell your friend if they shared a fear with you. 
 
+<<<<<<< HEAD
 ## Release 0; Consider the question: 
+=======
+## Release 0: Consider the question: 
+>>>>>>> a787cba0369f98b505695879044f8480bfb7575f
 **What scares you the most about being at DBC?**
 
 ## Release 1: Email your cohort
@@ -20,4 +24,8 @@ Starting **Thursday**, take a look at your cohort-mates responses and choose one
 ## Release 3: Read your cohort-mates' responses!
 
 ## Release 4: Submit
+<<<<<<< HEAD
 You'll be asked to submit your responses on the weekly submission form. 
+=======
+You'll be asked to submit your responses on the weekly submission form. 
+>>>>>>> a787cba0369f98b505695879044f8480bfb7575f

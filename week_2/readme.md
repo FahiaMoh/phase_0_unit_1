@@ -14,6 +14,7 @@ You have a [Cultural Assignment](7_cultural_assignment.md) this week you should 
 7. [Cultural Assignment](7_cultural_assignment.md) *Look at this First**
 8. [GPS 1.1](8_gps1_1) **DO NOT LOOK UNTIL YOUR FIRST GUIDED PAIRING SESSION!**
 
+<<<<<<< HEAD
 
 ## Sync DBC's Changes
 ####It's time to sync changes from DevBootcamp's phase_0_unit 1 master repo.
@@ -28,6 +29,18 @@ Once you have the entire local repository on your computer, you don't need to re
 
 ## Submitting your work
 
+=======
+
+## Sync DBC's Changes
+####It's time to sync changes from DevBootcamp's phase_0_unit 1 master repo!
+Follow [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md)!
+## Working through the challenges
+Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us by posting on the community, but also try to figure out a fix. It will help your markdown skills!
+
+
+## Submitting your work
+
+>>>>>>> a787cba0369f98b505695879044f8480bfb7575f
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 2 Submission" form.** 
 
 
