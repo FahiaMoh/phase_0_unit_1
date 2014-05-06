@@ -170,7 +170,8 @@ return true;
 
 // What concepts are you having trouble with, or did you just figure something out? If so, what?
 // Did you learn any new skills or tricks?
-//I never took the pseudocode approach to working towards a solution, so this was definitely a different method of problem solving that I found interesting because it actually benefited me having a framework to work with even though it wasn't completely perfect.
+//I never took the pseudocode approach to working towards a solution, so this was definitely a different method of problem solving that I found interesting.
+// It actually benefited me having a framework to work with even though it wasn't completely perfect.
 // How confident are you with each of the Learning Competencies?
 // I found that I easily grasped the learning comeptencies of this challenge
 // Which parts of the challenge did you enjoy?
