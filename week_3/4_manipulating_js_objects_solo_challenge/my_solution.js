@@ -46,7 +46,19 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = {
+  name:"Adam"
+}; 
+terah.spouse = adam; 
+adam.spouse = terah; 
 
+terah.children = {
+
+}
+terah.children.carson = "Carson"
+terah.children.carter = "Carter"
+terah.children.colton = "Colton"
+adam.children = terah.children 
 
 
 
@@ -55,13 +67,32 @@ var terah = {
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
 
+// What parts of your strategy worked? What problems did you face?
+// I found that since this mirroed the last challenge it was a lot easier to go through it
+
+// What questions did you have while coding? What resources did you find to help you answer them?
+// the children property stuff got me really confused and the instructions didn't really help me. 
+// the syntax at the bottom showed there was an error with the .name and im not sure if i was supposed 
+// to edit it out but when I did it seemed to work.
+
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+// I had a little trouble with the children property stuff, wasn't really clear how exactly to go about it
+// so I spent some time fiddling around with the syntax until it said "true"
+
+// Did you learn any new skills or tricks?
+// Not sure if this was a trick or skill but I didn't have to put the childrens name in the object for it to pass
+// I found that pretty cool that there are many ways to go about one problem
+
+// How confident are you with each of the Learning Competencies?
+// I am condifent with most of it, like the objects and how to create key value objects in JS.
+
+// Which parts of the challenge did you enjoy?
+// I enjoyed the moment you see that the tests pass true after a bit of struggling with the syntax
+
+// Which parts of the challenge did you find tedious?
+// Nothing was tedious. Moreso I found it confusing at the last few tests and had to fiddle around a lot
+// to get it working
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
