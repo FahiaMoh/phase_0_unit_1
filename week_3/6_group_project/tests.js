@@ -1,4 +1,4 @@
-// __________________________________________
+//
 // Tests:  Do not alter code below this line.
 
 
