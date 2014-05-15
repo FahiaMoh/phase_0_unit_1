@@ -49,15 +49,21 @@ var terah = {
 var adam = {
   name:"Adam"
 }; 
+
 terah.spouse = adam; 
 adam.spouse = terah; 
-
+terah.weight= 125;
+delete terah.eyeColor 
 terah.children = {
+};
 
-}
-terah.children.carson = "Carson"
-terah.children.carter = "Carter"
-terah.children.colton = "Colton"
+var carson = {name: "Carson"};
+terah.children.carson = {};
+terah.children.carter = {}; 
+terah.children.colton = {};
+terah.children.carson.name = "Carson";
+terah.children.carter.name = "Carter";
+terah.children.colton.name = "Colton";
 adam.children = terah.children 
 
 
