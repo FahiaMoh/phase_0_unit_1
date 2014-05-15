@@ -41,7 +41,23 @@ var terah = {
 11. Add a children property to adam and assign it the value of terah children.
 
 
-*/
+*/   // pseudocode 
+// 1. declare variable called adam and put it into object literal notation with nothing inside
+// 2. create a name property and call it adam inside the object
+// 3. put adam set as spouse as a property 
+// 4. set terah's weight to 125 from 130 
+// 5. create a delete method for the eyeColor for terah
+// 6. assign adam a spouse property with terah as the value
+// 7. create a empty propety valued object that assigns the children property to terah
+// 8. add a carson property to the value of the terah children property and assign it with the property that has the name and set it as "Carson"
+// 9. assign the carter property to the terah children, and do the same as above with the name property set to "Carter" 
+// 10. assign colton property to terah children, and assign it the name property "Colton" like the other two above
+// 11. add the children property to adam and set it equal to the terah children property  
+
+
+
+
+
 
 // __________________________________________
 // Write your code below.
